@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/Harshdeepsingh120/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table

@@ -3,7 +3,7 @@ public:
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
         int bestbuy[100000];
-        bestbuy[0]=prices[0];
+        bestbuy[0]=INT_MAX;
         for(int i=1; i<n; i++){
             bestbuy[i]=min(bestbuy[i-1],prices[i-1]);
         }

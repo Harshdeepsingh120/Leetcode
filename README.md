@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshdeepsingh120/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/Harshdeepsingh120/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harshdeepsingh120/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Harshdeepsingh120/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harshdeepsingh120/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |

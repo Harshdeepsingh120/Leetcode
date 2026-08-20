@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Harshdeepsingh120/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

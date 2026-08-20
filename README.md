@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshdeepsingh120/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Harshdeepsingh120/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

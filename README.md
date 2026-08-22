@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

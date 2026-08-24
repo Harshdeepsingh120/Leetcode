@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshdeepsingh120/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

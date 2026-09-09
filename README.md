@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshdeepsingh120/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Harshdeepsingh120/Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 ## Prefix Sum
 |  |
 | ------- |
